@@ -1,0 +1,24 @@
+package.json
+{
+  "name": "crikify",
+  "version": "1.0.0",
+  "description": "Free cricket stats keeper and match scoring app",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 4173",
+    "dev": "python -m http.server 4173 --bind 127.0.0.1"
+  },
+  "keywords": [
+    "cricket",
+    "stats",
+    "scoring",
+    "match",
+    "pwa"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharmadaksh2k08-design/Crickify.git"
+  }
+}
